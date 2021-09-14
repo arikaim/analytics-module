@@ -1,0 +1,20 @@
+{
+    "name": "arikaim/analytics-module",
+    "description": "Arikam CMS Analytics Module",
+    "keywords": ["Module", "Arikaim Analytics Module"],
+    "type": "arikaim-module",
+    "license": "GPL-3.0-or-later",
+    "authors": [{
+        "name": "Konstantin Atanasov",
+        "email": "info@arikaim.com",
+        "homepage": "http://arikaim.com"
+    }],
+    "require": {
+        "php": ">=7.1",
+        "arikaim/installer": "*", 
+        "google/apiclient": "^2.7.0"
+    },
+    "extra": {
+        "path": "analytics"
+    }
+}

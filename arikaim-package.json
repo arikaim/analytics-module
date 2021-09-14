@@ -1,0 +1,15 @@
+{
+    "title": "Analytics",
+    "name": "analytics",
+    "type": "package",
+    "class": "Analytics",
+    "package-type": "module",
+    "description": "Analytics module.",
+    "version": "1.0.0",   
+    "repository": "https://github.com/arikaim/analytics-module.git",
+    "require": {
+        "composer": [  
+            "google/apiclient"         
+        ]
+    }
+}
